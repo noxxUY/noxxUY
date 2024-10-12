@@ -2,5 +2,5 @@
 
 
 - programming since 2019.
-- i’m looking to collaborate with other developers.
+- focusing on web developing.
 - contact (discord) : walleando
