@@ -3,7 +3,7 @@
 - programming since 2019.
 - focusing on developing my own software.
 - contact (discord) : walleando
-- knowledge on html, css, tailwindcss, php, javscript, java, lua, c# and python.
+- knowledge on html, css, tailwindcss, php, javscript, java, lua, c++, c# and python.
 
 ---
 
