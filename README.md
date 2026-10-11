@@ -1,7 +1,8 @@
 ### noxx
 
 developer from uruguay.\
-i work across the whole stack: frontend, backend, and lower level, operating systems, reverse engineering.
+i do frontend and backend on the web.\
+i also like digging into how things work at a low level, with c, c++ and reverse engineering.
 
 <br>
 
