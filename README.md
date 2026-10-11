@@ -1,8 +1,8 @@
 ### noxx
 
-frontend developer from uruguay.\
-i build browser-only tools that open binary game formats — minecraft worlds and gta archives, parsed and rendered in 3d on the client, nothing uploaded.\
-also into c++, reverse engineering and undocumented file formats.
+developer from uruguay.\
+i work across the whole stack: frontend, backend, and lower level — operating systems, hypervisors, reverse engineering.\
+lately building browser-only tools that open binary game formats, parsed and rendered in 3d on the client.
 
 <br>
 
