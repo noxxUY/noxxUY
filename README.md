@@ -1,8 +1,7 @@
 ### noxx
 
 developer from uruguay.\
-i work across the whole stack: frontend, backend, and lower level — operating systems, hypervisors, reverse engineering.\
-lately building browser-only tools that open binary game formats, parsed and rendered in 3d on the client.
+i work across the whole stack: frontend, backend, and lower level, operating systems, reverse engineering.\
 
 <br>
 
