@@ -16,7 +16,7 @@ i work across the whole stack: frontend, backend, and lower level, operating sys
 
 **stack**
 
-typescript · react · astro · three.js · webgl · c++ · ida pro
+typescript · react · astro · three.js · node · python · c · c++ · ida pro
 
 <br>
 
