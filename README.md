@@ -1,6 +1,6 @@
 ### noxx
 
-developer from uruguay.\
+developer since 2018.\
 i do frontend and backend on the web.\
 i also like digging into how things work at a low level, with c, c++ and reverse engineering.
 
